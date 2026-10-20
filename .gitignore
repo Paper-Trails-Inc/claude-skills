@@ -1,0 +1,23 @@
+# System junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Private working files (never publish)
+staging/
+_staging/
+Public Staging/
+private/
+*.private.*
+term-list*
+scrub-terms*
+lessons-private*
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*
