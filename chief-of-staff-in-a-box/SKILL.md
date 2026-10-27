@@ -1,6 +1,6 @@
 ---
 name: chief-of-staff-in-a-box
-description: Builds a personal AI chief of staff for a busy leader. Interviews you, lets you name your chief of staff, command center and brand, then generates the operating manual, brain dump capture, task command center, daily and weekly routines, agents register, delegation filter, goals tracker, mistakes log, management team dashboard and 1:1 pages. Use when someone says build me a chief of staff.
+description: Builds a personal AI chief of staff for a busy leader. Interviews you, lets you name your chief of staff, command center and brand, then generates the operating manual, brain dump capture, task command center, daily and weekly routines, agents register, delegation filter, goals tracker, mistakes log, management team dashboard, 1:1 pages and optional agent lanes for revenue, finance and relationships. Use when someone says build me a chief of staff.
 ---
 
 # Chief of Staff in a Box
@@ -53,6 +53,7 @@ Tell the person the four phases before you start. Ask in small groups. Offer to 
 7. **My voice.** Two or three real examples of how I write, and what I dislike in writing.
 8. **My accountability.** How direct you should be when I am avoiding something, and what you may do on your own versus ask first.
 9. **My team layer (optional).** Do I run a leadership team that meets regularly? Do my leaders want their own chief of staff?
+10. **My lanes (optional).** Do I have a growth or money goal I want watched, such as a revenue number by a date, margin targets or cash? Which of revenue, finance, relationships and personal admin would I actually read each week? (See `modules/14-agent-lanes.md` for the questions.)
 
 ## Phase 2: Generate
 
@@ -71,6 +72,7 @@ Read each module, fill it from the interview, and show the person a short summar
 11. **Chief of staff to chief of staff messages** (`modules/11-cos-to-cos-messages.md`), only if the leaders get their own.
 12. **Safe rules** (`modules/12-safe-rules.md`). Always included, written into the operating manual.
 13. **Live page option** (`modules/13-live-page-option.md`). Offer this first for the command center, the management team dashboard and the 1:1 pages.
+14. **Agent lanes** (`modules/14-agent-lanes.md`), only if the person has a growth or money goal. Revenue, finance, relationships and personal admin as sections inside the routines, not new schedules. Every lane starts read only, is added to the agents register, and moves up the autonomy ladder only when the person says so.
 
 Offer the live page first: the command center, dashboard and 1:1 pages as published pages that open in a browser, named and branded by the person. Check whether their Claude account can publish pages before promising it. If it can't, use the simplest format that works: a folder of files, a Claude Project with the files attached, or a shared doc or spreadsheet. Say which you chose and why. Never promise a feature their account might not have. If something needs a connector or scheduling and they don't have it, give the manual version (a prompt they paste) and say so.
 

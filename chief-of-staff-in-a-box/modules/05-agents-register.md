@@ -36,6 +36,7 @@ Suggest these during Phase 2 and let the person pick:
 4. Quarter review
 5. Inbox sweep (optional, read only)
 6. Meeting prep (optional, day before 1:1s and team meetings, modules 9 and 10)
+7. Lanes (optional, revenue, finance, relationships; run as sections of the routines above, see module 14)
 
 ## New agent checklist
 

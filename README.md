@@ -8,7 +8,7 @@ Each folder has a `SKILL.md` (add it to Claude as a skill), a `PROMPT.md` (paste
 
 | Folder | What it does |
 | --- | --- |
-| [chief-of-staff-in-a-box](chief-of-staff-in-a-box) | Interviews you, lets you name your chief of staff, command center and brand, then builds a full operating system: brain dump, routines, agents register, delegation filter, goals, how you work, management team dashboard and 1:1 pages. |
+| [chief-of-staff-in-a-box](chief-of-staff-in-a-box) | Interviews you, lets you name your chief of staff, command center and brand, then builds a full operating system: brain dump, routines, agents register, delegation filter, goals, how you work, management team dashboard, 1:1 pages and optional agent lanes for revenue, finance and relationships. |
 
 ## How to get it
 

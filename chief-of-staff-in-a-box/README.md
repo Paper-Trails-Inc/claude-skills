@@ -22,6 +22,7 @@ Build your own AI chief of staff with Claude. It interviews you about how you ac
 * **How you work**: work style profile, mistakes log (every correction becomes a rule), voice learnings, 30 day noise audit, pressure test
 * **Management team dashboard** (optional): Tuesday style meeting page, scorecard, rocks, issues, wins, department roundup
 * **1:1 pages** (optional): one per direct report, with commitments both ways
+* **Agent lanes** (optional): revenue, finance, relationships and personal admin as sections inside your routines, with a pace line toward your goal, an autonomy ladder and nothing sent without your yes
 * **Chief of staff to chief of staff messages** (optional): for leaders who each get their own
 * **Live pages** (if your Claude account can publish pages): your command center, team dashboard and 1:1 pages as private pages that open in a browser, shared only with the people you name. If your account can't, it falls back to files, a doc or a spreadsheet.
 * **Safe defaults**: nothing is sent without your yes, nothing is invented, private things stay private

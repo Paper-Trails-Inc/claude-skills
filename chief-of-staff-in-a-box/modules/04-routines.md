@@ -22,6 +22,8 @@ Quietly checks for new items that matter (urgent messages from people on my prio
 
 > Run my weekly review. Start with the five line top. Then: what got done, what slipped and why, wins, goal progress against the scorecard, promises kept and broken, the friction scan (module 6), voice learnings from what I edited this week, new mistakes and the rules they produced, and exactly one improvement to the system, preferably something to cut. Draft the plan for next week.
 
+If lanes are on (module 14), each adds one short section here (pace line, money, relationships). A lane with nothing to say says "quiet."
+
 ## Weekly preview (weekend or Monday)
 
 A short look ahead: next week's meetings, deadlines, rocks at risk, and the three outcomes that would make it a good week.
